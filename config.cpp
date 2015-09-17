@@ -45,4 +45,5 @@ class CfgGlasses
 	class RedSun_sof_w: NoGlasses {};
 	class NoGlasses_sof_w: NoGlasses {};
 	class goggles_winter: NoGlasses {};
+	class G_Tactical_Clear: NoGlasses {};
 };
